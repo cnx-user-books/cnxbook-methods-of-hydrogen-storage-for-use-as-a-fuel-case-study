@@ -1,0 +1,16 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Liquid Hydrogen Fact Sheet</title>
+  <metadata>
+  <md:content-id>m22210</md:content-id><md:title>Liquid Hydrogen Fact Sheet</md:title>
+  <md:abstract>This module contains facts related to storing hydrogen as a liquid.</md:abstract>
+  <md:uuid>4cb064e0-8815-4a87-afe7-ab9a602baeab</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1169056691711">
+      <emphasis effect="bold">Liquid Hydrogen Fact Sheet</emphasis>
+    </para>
+    <para id="id7453375">Liquid hydrogen is made possible by cryogenically cooling it to below its boiling point, -253°C. As a liquid, the same amount of gaseous hydrogen will require much less volume, and therefore is feasible to individual automobile use. A refrigeration system is required to keep the liquid cooled, for if the system temperature rises above hydrogen's critical point (-241°C), the liquid will become a gas. There must exist a vacuum insulation between the inner and outer walls of liquid hydrogen tank system, for heat cannot travel through a vacuum. There is a tradeoff, however, because the tank must be an open system to prevent overpressure. This will lead directly to heat loss, though minimal.</para>
+    <para id="id6648499">The relative tank size has a broad range, with small tanks having a volume of 100 L, and large spherical tanks sizing all the way up to 2000 m<sup>3</sup>. Refrigeration systems are not a likely feature for every automobile, and open systems may pose a hazard should an accident occur. Cooling hydrogen down to a liquid is a convenient method of storage, however, and its implementation most likely will be limited to large stationary tanks as well as mobile multi-axle trucks.</para>
+  </content>
+</document>

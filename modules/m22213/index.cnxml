@@ -1,0 +1,20 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Metal Organic Materials Fact Sheet</title>
+  <metadata>
+  <md:content-id>m22213</md:content-id><md:title>Metal Organic Materials Fact Sheet</md:title>
+  <md:abstract>This module contains a fact sheet related to metal organic materials.</md:abstract>
+  <md:uuid>01dc9d81-faca-4b4e-a713-b44b25aaae50</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1169462222118">
+      <emphasis effect="bold">Metal Organic Materials Fact Sheet</emphasis>
+    </para>
+    <para id="id1169470054646"> Metal organic materials, also referred to as metal organic frameworks (MOFs) are a unique class of solid state materials which exhibit potential to be used for the storage of gases. As its name suggests, these structures assemble themselves into frameworks, much as buildings are constructed from steel frameworks. Inorganic metal clusters compose the edges of the framework, while organic molecules link the clusters together. A variety of organic linkers may be used, allowing the structure to be tunable. </para>
+    <para id="id1169466488610">
+      <emphasis effect="italics">Image courtesy of Dr. Mohamed Eddaoudi at the University of South Florida, Department of Chemistry</emphasis>
+    </para>
+    <para id="id1169471596322"> The 3-D framework naturally has pores which capture gas particles. The process of capturing is known as sorption. Hydrogen, being a gas, will adsorb into the framework and "stick" throughout it, much as water is held in a sponge. There are two main methods of adsorption, physisorption and chemisorption. Gas particles are physisorbed when the force that holds the particle in place is Coulombic, meaning static forces are involved in bonding. On the other hand, the particles are considered chemisorbed when covalent bonds are made between the gas and the framework, exhibiting a stronger bond. The greater the interaction of particles with the framework, the more overall particles may be sorbed, and the smaller volume the framework needs to occupy. The majority of current MOFs physisorb gases, however, and one of the main research efforts at this point is to target MOFs which chemisorb gases.</para>
+    <para id="id1169470185505"> Once maximum sorption (equilibrium) is reached, the gas will remain attached to the framework, and evacuation may be performed when desired. Evacuating the gas is as simple as applying heat to the system. Although the gas will be released first, it is almost inevitable that the framework will collapse as well. Additional research efforts are underway to enhance framework strength.</para>
+  </content>
+</document>

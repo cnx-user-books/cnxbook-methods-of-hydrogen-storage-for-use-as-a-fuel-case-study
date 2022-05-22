@@ -1,0 +1,17 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Compressed Hydrogen Fact Sheet</title>
+  <metadata>
+  <md:content-id>m22206</md:content-id><md:title>Compressed Hydrogen Fact Sheet</md:title>
+  <md:abstract>This module contains the fact sheet relevant to compressing hydrogen gas for storage.</md:abstract>
+  <md:uuid>833c1895-dc93-479d-8d95-0bafc768253b</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1166173897151">
+      <emphasis effect="bold">Compressed Hydrogen Fact Sheet</emphasis>
+    </para>
+    <para id="id1166169254473">Compressing gas is the process of applying an external force which minimizes the distance between gas particles, therefore forcing the system to occupy less volume. This is attractive since many particles can exist in a reasonably sized tank. At room temperature and atmospheric pressure, 4 kg of hydrogen occupies a volume of 45m<sup>3</sup>, which corresponds to a balloon with a diameter of 5m. Clearly compression is required to store and transport the gas. When it comes to individual mobility however, these tanks are still far too large for the average sized automobile. </para>
+    <para id="id1166179222854">Compressed tanks are regularly filled to 200 atmospheres in most countries. Storing 4 kg of hydrogen still requires an internal volume of 225 L (about 60 gallons). This amount can be divided into 5 tanks with 45 L internal volume. </para>
+    <para id="id1166170567732">Evacuation of the gas for combustion would be rather simple, a simple valve could regulate the flow of hydrogen. While this method could be feasible for cars, it is more likely that gases will be compressed for transport and not for use in individual vehicles.</para>
+  </content>
+</document>

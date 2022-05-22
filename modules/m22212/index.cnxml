@@ -1,0 +1,18 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Metal Hydride Fact Sheet</title>
+  <metadata>
+  <md:content-id>m22212</md:content-id><md:title>Metal Hydride Fact Sheet</md:title>
+  <md:abstract>This module contains the fact sheet related to metal hydrides.</md:abstract>
+  <md:uuid>64f01313-acf9-4b32-bfa4-2e3c7233f2b0</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1166222814015">
+      <emphasis effect="bold">Metal Hydrides Fact Sheet</emphasis>
+    </para>
+    <para id="id1166223845409"> Metal hydrides are coordinated complexes and/or crystal systems which reversibly bind hydrogen. The hydrogen is favorably incorporated into the complex and may be released by applying heat to the system. A major method to determine a particular complex's effectiveness is to measure the amount of hydrogen that can be released from the complex, rather than the amount it can store.</para>
+    <para id="id8083604"> Some issues with metal hydrides are low hydrogen capacity, slow uptake and release kinetics, as well as cost.<sup>1</sup> The rate at which the complex accepts the hydrogen is a factor, since the time to fuel a car should ideally be minimal. Even more importantly, at the current stage of research, the rate at which hydrogen is released from the complex is too slow for automobile requirements<sup>1</sup>.</para>
+    <para id="id3503840"> This technology is still a very promising method, and further research allows for the possibility of highly binding and rapid reversal rates of hydrogen gas.</para>
+    <para id="id1166223301738">[1] U.S. Department of Energy.  <link url="http://www1.eere.energy.gov/hydrogenandfuelcells/storage/metal_hydrides.html">http://www1.eere.energy.gov/hydrogenandfuelcells/storage/metal_hydrides.html</link></para>
+  </content>
+</document>

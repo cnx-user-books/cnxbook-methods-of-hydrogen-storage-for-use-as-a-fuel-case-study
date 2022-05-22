@@ -1,0 +1,20 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Methods of Hydrogen Storage - An Introduction</title>
+  <metadata>
+  <md:content-id>m22214</md:content-id><md:title>Methods of Hydrogen Storage - An Introduction</md:title>
+  <md:abstract>This module gives an introduction to the attractiveness of Hydrogen as a fuel, as well as five methods to store hydrogen.</md:abstract>
+  <md:uuid>15eb3ed3-c680-497d-b7a2-5493302b075e</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1170422944078">
+      <emphasis effect="bold">Methods of Hydrogen Storage for Use as a Fuel</emphasis>
+    </para>
+    <para id="id1170419898888"> Hydrogen is the first element listed in the periodic table, and is composed of one proton and one electron. Hydrogen is rarely found alone, as it readily combines with another hydrogen atom to form dihydrogen, H<sub>2</sub>. Dihydrogen is a colorless and odorless gas at room temperature which is highly flammable, releasing a large amount of energy when combusted, i.e. the reaction is highly exothermic. As compared with combustion of the current fuels which operate automobiles, for example petrol, the energy released when hydrogen is combusted is more than three times greater.</para>
+    <para id="id1170419550557"> Further, the combustion of octane, found in petrol, releases the greenhouse gas carbon dioxide into the atmosphere, and is not a "clean" fuel. When hydrogen is combusted in the presence of oxygen, however, the only product is water, as shown in the balanced chemical equation below.</para>
+    <para id="id1170415942107">2 H2 (g)+ O2 (g)→2 H2O (g)</para>
+    <para id="id1170412305230">Both clean reactivity and the large chemical energy make H<sub>2</sub> extremely appealing for use as a fuel in automobiles.</para>
+    <para id="id1170412175301"> If this method is so great, why has it not been implemented since the invention of automobiles? As stated, dihydrogen is a gas at room temperature. Gases, compared to the other states of matter (liquid and solid), occupy the most volume of space, for a given number of molecules. Octane and other hydrocarbons found in gasoline are liquids at room temperature, demanding relatively small fuel tanks. Liquids are therefore easier to store than compressed gases. A modern vehicle can travel about 400 km on a full tank of gasoline (24 kg). To cover the same range, 8 kg of hydrogen is needed, or even as low as 4 kg for a hybrid car with a fuel cell.</para>
+    <para id="id1170412751435"> H<sub>2</sub> has a high energy content per weight (more than three times as much as gasoline), but the energy density per volume is rather low at standard temperature and pressure. Volumetric energy density can be increased by storing the gaseous hydrogen under increased pressure or storing it at extremely low temperatures as a liquid. Hydrogen can also be adsorbed into metal hydrides and highly porous materials. The current available methods of storing hydrogen include compressed hydrogen and liquefied hydrogen, however many promising methods exist, namely metal organic materials (MOMs), metal hydrides and carbon nanostructures.</para>
+  </content>
+</document>

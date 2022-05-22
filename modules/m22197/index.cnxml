@@ -1,0 +1,20 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Carbon Nanostructures Fact Sheet</title>
+  <metadata>
+  <md:content-id>m22197</md:content-id><md:title>Carbon Nanostructures Fact Sheet</md:title>
+  <md:abstract>This module contains facts relevant to carbon nanostructures.</md:abstract>
+  <md:uuid>e49a29cb-2ec7-47be-bc8b-2960f5e7ec6f</md:uuid>
+</metadata>
+
+<content>
+    <para id="id7025773">
+      <emphasis effect="bold">Carbon Nanostructures Fact Sheet</emphasis>
+    </para>
+    <para id="id1165580169759">Carbon nanostructures are exactly as their name implies, a nano-scale (10<sup>-9</sup> m) structure made exclusively of carbon atoms. It was originally cited that single-walled carbon nanotubes displayed the property of capturing hydrogen, however recent efforts to replicate the results have been difficult. It is known, however, that doping the nanotube with a metal will have a profound effect on capturing hydrogen<sup>2</sup>. The key benefit of this storage technique is the availability of reversible binding at room temperature.</para>
+    <para id="id1165579577259">While these structures cannot capture as much hydrogen as the DOE goals require, many research efforts are being made to tune these structures so as to store a greater amount to hydrogen gas. Carbon nanotubes are a relatively new technology and therefore efforts must be made to drive down the cost of producing these tubes. Nanotubes are a promising method of gas storage, and will most likely find application in vehicles.</para>
+    <para id="id1165579640485">
+      <emphasis effect="italics">Image courtesy of Dr. Mohamed Eddaoudi at the University of South Florida, Department of Chemistry</emphasis>
+    </para>
+    <para id="id1165580775614">[2] U.S. Department of Energy.  <link url="http://www1.eere.energy.gov/hydrogenandfuelcells/storage/carbon_materials.html">http://www1.eere.energy.gov/hydrogenandfuelcells/storage/carbon_materials.html</link></para>
+  </content>
+</document>
